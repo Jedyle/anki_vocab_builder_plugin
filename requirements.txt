@@ -1,0 +1,5 @@
+requests
+beautifulsoup4
+Pillow
+PyQt5
+aqt>=2.1.0

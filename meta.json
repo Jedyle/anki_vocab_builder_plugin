@@ -1,0 +1,1 @@
+{"config": {"num_images_to_display": 9, "image_search_provider": "bing", "max_image_width": 300, "max_image_height": 300, "audio_source": "wiktionary", "default_language": "russian", "supported_languages": ["spanish", "french", "german", "italian", "portuguese", "japanese", "chinese", "russian", "korean"], "create_reversed_cards": true, "use_dark_theme": false}}
