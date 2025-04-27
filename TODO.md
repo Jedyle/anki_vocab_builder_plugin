@@ -1,0 +1,4 @@
+- [ ] pin versions requirements.txt
+- [ ] add installation instructions (don't forget `pip install -r requirements.txt -t lib`)
+- [ ] add demo
+- [ ] publish to anki ?
